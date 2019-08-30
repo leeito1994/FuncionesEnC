@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1567170502 source:d:\martinezlm\clase 4!!\clase 4\main.c
+	<stdlib.h>
+	"Aritmeticas.h"
+
+1567170423 d:\martinezlm\clase 4!!\clase 4\aritmeticas.h
+	"stdio.h"
+
+1567170670 source:d:\martinezlm\clase 4!!\clase 4\aritmeticas.c
+	"Aritmeticas.h"
+
+1567170670 source:d:\martinezlm\funcionesenc\clase 4!!\clase 4\aritmeticas.c
+	"Aritmeticas.h"
+
+1567170423 d:\martinezlm\funcionesenc\clase 4!!\clase 4\aritmeticas.h
+	"stdio.h"
+
+1567170502 source:d:\martinezlm\funcionesenc\clase 4!!\clase 4\main.c
+	<stdlib.h>
+	"Aritmeticas.h"
+
